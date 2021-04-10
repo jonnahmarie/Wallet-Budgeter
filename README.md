@@ -24,6 +24,8 @@ No installation is necessary. Please access the deployed app by visiting: [https
 ## Usage
 - When running the application through your local machine, please ensure you are running mongod.exe in Administrator mode.
 
+![Screenshot of application](./public/screenshot.png)
+
 ## License
 ![](https://img.shields.io/badge/MIT-green.svg) MIT License
 
